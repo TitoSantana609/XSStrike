@@ -6,6 +6,32 @@
   <br>
 </h1>
 
+
+<h1> To install</h1>
+<br>
+ Clone the repository:
+    ```
+    git clone https://github.com/s0md3v/XSStrike.git
+    ```
+
+ 2. Navigate to the cloned directory:
+    ```
+    cd XSStrike
+    ```
+
+ 3. Install the requirements using pip:
+    ```
+    pip install -r requirements.txt
+    ```
+
+4. Ensure to make xsstrike.py executable by running:
+   ```
+   chmod +x xsstrike.py
+   ```
+
+
+
+
 <h4 align="center">Advanced XSS Detection Suite</h4>
 
 <p align="center">
